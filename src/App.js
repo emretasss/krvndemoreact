@@ -69,7 +69,8 @@ const renderKaravan = karavan.map(
 );
 
   return (
-    <><div className="app">
+    <>
+    <div className="app">
       <button  onClick={handleclick}  className="button"> hijjj hupmuahşışı</button>
 
     <div className="yanyanakaravan" >{renderKaravan}</div>
