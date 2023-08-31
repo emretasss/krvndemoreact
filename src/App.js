@@ -2,7 +2,7 @@ import Karavanshow from "./Karavanshow";
 import { useState } from "react";
 import "./App.css"
 
-
+  
 
 
 function getRandomKaravan(){
